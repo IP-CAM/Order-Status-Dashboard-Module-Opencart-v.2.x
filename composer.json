@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "opencart/opencart": "2.3.0.2"
+        "opencart/opencart": "3.0.3.3"
     }
 }
